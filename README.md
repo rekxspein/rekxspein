@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **rekxspein/rekxspein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a ReactJS(TypeScript) Project
+- 🌱 I’m currently learning Data Structures and Algorithms, NEST Framework, System Design
+- 📫 Reach me at khundrakpamrajesh95@gmail.com
 
 <b>My GitHub Stats</b>
 
