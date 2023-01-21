@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a ReactJS(TypeScript) Project
 - 🌱 I’m currently learning Data Structures and Algorithms, NEST Framework, System Design
+- 🤔 I’m looking for help with DSA
 - 📫 Reach me at khundrakpamrajesh95@gmail.com
 
 <b>My GitHub Stats</b>
