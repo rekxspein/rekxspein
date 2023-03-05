@@ -31,9 +31,9 @@ I am Khundrakpam Rajesh 😎
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekxspein&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://gh-stats.gyanendrokh.dev/api/top-langs/?username=rekxspein&count_private=true&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</div>
+</div> -->
 <div align="right">
   <img src="https://media.giphy.com/media/4Zy8UHlDr6ZQunKhhp/giphy.gif" width="100"/>
 </div>
