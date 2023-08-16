@@ -16,7 +16,7 @@ I am Khundrakpam Rajesh 😎
   - ⚡ Fun fact: ...
   -->
   - 📜 MSc.-IT
-  - 🔭 I’m currently working on a ReactJS(TypeScript) Project
+  - 🔭 NextJS, ReactJS(TypeScript), DevOps
   - 🌱 I’m currently learning Data Structures and Algorithms, NEST Framework, System Design
   - 🤔 I’m looking for help with DSA
   - ⚡✨ Fun fact: I 💖 playing Guitar/Singing
@@ -25,9 +25,10 @@ I am Khundrakpam Rajesh 😎
   <b>My GitHub Stats 💻</b>
 </div>
 <div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://gh-stats.gyanendrokh.dev/api?username=rekxspein&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rekxspein's GitHub stats" />
 </div>
+  -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekxspein&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </div>
